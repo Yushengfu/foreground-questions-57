@@ -2,7 +2,7 @@
 
 bootstrap4.0与bootstrap3.0的区别
 
-vue3.0与vue4.0的区别
+vue2.0与vue3.0的区别
 
 css优先级
 
