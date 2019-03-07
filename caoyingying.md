@@ -10,12 +10,12 @@
 
 -----2019-03-04
 
-无锡朗新科技有限公司
-vue场景式问题很多：
-1、vue-router具体说说怎么没用
-2、vue-resouse和axios怎么用
-3、vue混入mixins
-4、传参两种方式，具体说说怎么没用
+无锡朗新科技有限公司：<br/>
+vue场景式问题很多：<br/>
+1、vue-router具体说说怎么没用<br/>
+2、vue-resouse和axios怎么用<br/>
+3、vue混入mixins<br/>
+4、传参两种方式，具体说说怎么没用<br/>
 5、vue的指令用过哪些
 6、实现跨域请求的方式有哪些
 7、vue的生命周期
